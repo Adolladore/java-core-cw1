@@ -1,3 +1,5 @@
+package control_work;
+
 public class Stop {
     private String name;
 

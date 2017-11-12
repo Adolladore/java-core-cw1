@@ -1,5 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
+package control_work;
+
 import java.util.Scanner;
 
 public class Main {

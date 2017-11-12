@@ -1,3 +1,5 @@
+package control_work;
+
 public class Bus {
     private String name;
     private Stop currentStop;
